@@ -2,16 +2,26 @@
 
 Set up Django:
 ```
-> pip install Django
+> pip3 install Django
 > django-admin startproject Scoreboard
-> python manage.py startapp board
-> python manage.py runserver
+> python3 manage.py startapp board
+> python3 manage.py runserver
 > 
 ```
 Für Datenbanken:
 ```
-> python manage.py migrate
-> python manage.py makemigrations board 
+> python3 manage.py makemigrations 
+> python3 manage.py migrate
+```
+oder falls migrations auf eine spezielle App wie board
+```
+> python3 manage.py makemigrations board
+> python3 manage.py migrate
+```
+
+Superuser erstellen:
+```
+> python3 manage.py createsuperuser
 ```
 
 ![alt text](Scoreboard.jpg)
