@@ -23,5 +23,7 @@ Superuser erstellen:
 ```
 > python3 manage.py createsuperuser
 ```
+Auf Superuser zugreifen:
+http://127.0.0.1:8000/admin/
 
 ![alt text](Scoreboard.jpg)
