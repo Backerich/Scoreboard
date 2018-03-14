@@ -32,4 +32,6 @@ webadmin
 webadmin@scoreboard.de
 admin1234#
 
+https://www.techiediaries.com/create-react-app-django/
+
 ![alt text](Scoreboard.jpg)
