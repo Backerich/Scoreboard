@@ -1,5 +1,7 @@
 # Scoreboard
 
+Virtual Enviroment Möglich
+
 Set up Django:
 ```
 > pip3 install Django
