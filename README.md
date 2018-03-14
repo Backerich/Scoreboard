@@ -26,4 +26,8 @@ Superuser erstellen:
 Auf Superuser zugreifen:
 http://127.0.0.1:8000/admin/
 
+webadmin
+webadmin@scoreboard.de
+admin1234#
+
 ![alt text](Scoreboard.jpg)
