@@ -1,6 +1,6 @@
 ### Scoreboard
 ## Django
-=======================
+======
 
 Set up Django:
 ```
