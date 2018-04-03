@@ -10,7 +10,8 @@
 
 Virtuelle Umgebung:
 ``` python
-> mkdir meineSeite
+> mkdir meineSeite # meineSeite selber Namen auswählen
+> cd meineSeite
 > python3 -m venv myvenv # Umgebung erstellen
 > source myvenv/bin/activate # Umgebung aktivieren
 ```
