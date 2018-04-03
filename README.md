@@ -71,31 +71,25 @@ INSTALLED_APPS = [
 Server Aufrufen:
 http://127.0.0.1:8000/
 
----------------
-
-Nützliche Links:
-https://tutorial.djangogirls.org/
-
----------------
-
-Superuser erstellen:
+### Superuser erstellen:
 ```
 > python3 manage.py createsuperuser
 ```
 Auf Superuser zugreifen:
 http://127.0.0.1:8000/admin/
 
-webadmin
-webadmin@scoreboard.de
-admin1234#
+(webadmin;webadmin@scoreboard.de;admin1234#)
 
-https://www.techiediaries.com/create-react-app-django/
-
-REST Framework:
+### REST Framework:
 ```
 > pip3 install djangorestframework
 ```
 
+### Nützliche Links:
+https://tutorial.djangogirls.org/
+https://www.techiediaries.com/create-react-app-django/
 http://www.django-rest-framework.org/tutorial/quickstart/
+
+------------------------------
 
 ![alt text](Scoreboard.jpg)
