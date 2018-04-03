@@ -1,6 +1,5 @@
 # Scoreboard
-
-Virtual Enviroment Möglich
+###Django
 
 Set up Django:
 ```
