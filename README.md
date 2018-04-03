@@ -1,6 +1,7 @@
 ### Scoreboard
 ## Django
 =======================
+
 Set up Django:
 ```
 > pip3 install Django
