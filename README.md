@@ -47,7 +47,7 @@ LANGUAGE_CODE = 'de-ch'
 ``` python
 TIME_ZONE = 'Europe/Berlin'
 ```
-- STATIC_ROOT (für Daten wie Javascipt, CSS und HTML)
+- STATIC_ROOT (für Daten wie Javascipt und CSS)
 ``` python
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 ```
