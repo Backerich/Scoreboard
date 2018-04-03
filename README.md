@@ -68,14 +68,14 @@ INSTALLED_APPS = [
 > python manage.py runserver 0.0.0.0:8080 # oder
 > python manage.py runserver 0:8000
 ```
-Server Aufrufen:
+Server Aufrufen:  
 http://127.0.0.1:8000/
 
 ### Superuser erstellen:
 ```
 > python3 manage.py createsuperuser
 ```
-Auf Superuser zugreifen:
+Auf Superuser zugreifen:  
 http://127.0.0.1:8000/admin/
 
 (webadmin;webadmin@scoreboard.de;admin1234#)
@@ -86,7 +86,9 @@ http://127.0.0.1:8000/admin/
 ```
 
 ### Nützliche Links:
+Django einrichten:  
 https://tutorial.djangogirls.org/  
+React mit Django:  
 https://www.techiediaries.com/create-react-app-django/  
 http://www.django-rest-framework.org/tutorial/quickstart/  
 
