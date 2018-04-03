@@ -47,7 +47,8 @@ TIME_ZONE = 'Europe/Berlin'
 ```
 - STATIC_ROOT (für Daten wie Javascipt, CSS und HTML)
 ``` python
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')```
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+```
 - ALLOWED_HOSTS
 ``` python
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com'] # optional auch andere wie Heroku
@@ -62,10 +63,10 @@ INSTALLED_APPS = [
 
 ### Server zum Laufen bringen:
 ``` python
-python manage.py runserver # oder
-./manage.py runserver # oder
-python manage.py runserver 0.0.0.0:8080 # oder
-python manage.py runserver 0:8000
+> python manage.py runserver # oder
+> ./manage.py runserver # oder
+> python manage.py runserver 0.0.0.0:8080 # oder
+> python manage.py runserver 0:8000
 ```
 Server Aufrufen:
 http://127.0.0.1:8000/
