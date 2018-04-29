@@ -4,17 +4,17 @@ import Application from './components/Application';
 
 var PLAYERS = [
   {
-    name: "Daniel Schmidt",
+    name: "Ron Weasley",
     score: 31,
     id: 1,
   },
   {
-    name: "Christopher Schmidt",
+    name: "Peter Maffay",
     score: 10,
     id: 2,
   },
   {
-    name: "Tanja Schmidt",
+    name: "Albus Dumbledore",
     score: 1,
     id: 3,
   },
